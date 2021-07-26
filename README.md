@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ahmadrabea
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning (HTML , CSS , JS , Python)
+- 👀 I’m interested in web development (HTML, CSS, Bootstrap, JavaScript, Jquery, C#, Asp.net, Python)
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me (a.aburabea99@gmail.com)
+- 📫 How to reach me (ahmadrabea10@gmail.com)
 
 <!---
 ahmadrabea/ahmadrabea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
