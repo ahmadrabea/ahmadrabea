@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmadrabea
-- 👀 I’m interested in web development (HTML, CSS, Bootstrap, JavaScript, Jquery, C#, Asp.net, Python)
+- 👀 I’m interested in web development 
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me (ahmadrabea10@gmail.com)
 
