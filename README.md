@@ -5,7 +5,6 @@
 - 📚 I’m currently learning Reactjs.
 - 👯 I’m looking to collaborate with other passionate developers.
 - 🥅 2022 Goals: Deep dive into React & Nodejs.
-- ⚡ Fun fact: 1st place (2019) in Jordan with Call of Duty.
 
 ### Languages and Tools:
 
