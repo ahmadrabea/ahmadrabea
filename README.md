@@ -1,7 +1,7 @@
 ### Hi there, I'm Ahmad 👋
 
 ## I'm a Frontend Developer, who love to code!
-- 💻 Still studying Computer Engineering at University of Jordan.
+- 💻 Studying Computer Engineering at University of Jordan(2017-present).
 - 📚 I’m currently learning Reactjs.
 - 👯 I’m looking to collaborate with other passionate developers.
 - 🥅 2022 Goals: Deep dive into React & Nodejs.
