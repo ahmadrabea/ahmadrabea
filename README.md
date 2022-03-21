@@ -2,9 +2,9 @@
 
 ## I'm a Frontend Developer, who love to code!
 - 💻 Studying Computer Engineering at University of Jordan ( 2017 - present )
-- 📚 I’m currently learning Reactjs.
+- 📚 I’m currently learning NodeJS.
 - 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2022 Goals: Deep dive into React & Nodejs.
+- 🥅 2022 Goals: Deep dive into MERN applications.
 
 ### Languages and Tools:
 
