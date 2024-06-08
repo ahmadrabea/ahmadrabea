@@ -33,6 +33,7 @@
 <img align="center" title="mongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
   <br>
   <br>
+<img align="center" title="jest" width="50px" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253956/jest-icon-md.png" />
 <img align="center" title="prisma" width="50px" src="https://static-00.iconduck.com/assets.00/file-type-prisma-icon-1682x2048-yybmypz0.png" />
 <img align="center" title="typeORM" width="50px" src="https://seeklogo.com/images/T/typeorm-logo-F243B34DEE-seeklogo.com.png" />
 <img align="center" title="AWS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
